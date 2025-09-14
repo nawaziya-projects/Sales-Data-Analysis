@@ -3,3 +3,10 @@ A comprehensive Power BI dashboard that provides deep insights into sales perfor
 
 🌟 Key Features
 
+Executive Summary & KPI Tracking
+
+Monitor Total Sales (₹122M), Total Profit (₹12.2M), and Quantity Sold (71K units) over a customizable date range (2020-2024).
+
+Compare performance between two selected periods for quick trend analysis.
+
+
