@@ -3,25 +3,25 @@ A comprehensive Power BI dashboard that provides deep insights into sales perfor
 
 🌟 Key Features
 
-1. Executive Summary & KPI Tracking
+ 1. Executive Summary & KPI Tracking
 
     Monitor Total Sales (₹122M), Total Profit (₹12.2M), and Quantity Sold (71K units) over a customizable date range (2020-2024).
 
     Compare performance between two selected periods for quick trend analysis.
 
-2. Sales & Profit Trend Analysis
+ 2. Sales & Profit Trend Analysis
 
    Visualize sales and profit trends from 2020 to 2024, identifying seasonal patterns and growth trajectories.
 
    Analyze the relationship between Net Sales and Profit to understand margin health.
 
-3.Product Performance Deep Dive
+ 3.Product Performance Deep Dive
 
    Top & Bottom Performers: Identify your best and worst-selling products by Sales, Quantity, and Profit.
 
    Key Insight: High-value electronics (iPhone, MacBook, Sony TV) dominate profit and sales, while low-margin FMCG products (Toothpaste, Soap) appear at the bottom.
 
-4. Granular Transaction Data
+ 4. Granular Transaction Data
 
    Dive into the raw data with a detailed report view, filtering by Customer, Product, Promotion, and Date.
 
