@@ -18,8 +18,7 @@ A comprehensive Power BI dashboard that provides deep insights into sales perfor
  3.Product Performance Deep Dive
 
      Top & Bottom Performers: Identify your best and worst-selling products by Sales, Quantity, and Profit.
-
-     Key Insight: High-value electronics (iPhone, MacBook, Sony TV) dominate profit and sales, while low-margin FMCG products (Toothpaste, Soap) appear at the bottom.
+     
 
  4. Granular Transaction Data
 
