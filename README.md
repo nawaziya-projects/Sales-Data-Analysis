@@ -17,7 +17,7 @@ A comprehensive Power BI dashboard that provides deep insights into sales perfor
 
  3.Product Performance Deep Dive
 
-     Top & Bottom Performers: Identify your best and worst-selling products by Sales, Quantity, and Profit.
+    Top & Bottom Performers: Identify your best and worst-selling products by Sales, Quantity, and Profit.
      
 
  4. Granular Transaction Data
